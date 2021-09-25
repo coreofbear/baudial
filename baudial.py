@@ -1,4 +1,4 @@
-# Baudial - minimalistic Python based UART console terminal
+# Baudial - minimalistic Python based UART CLI terminal
 
 import serial
 import signal

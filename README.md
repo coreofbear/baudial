@@ -1,5 +1,5 @@
 # baudial
-Baudial - minimalistic Python based UART console terminal
+Baudial - minimalistic Python based UART CLI terminal
 
 ## Installing dependencies 
 Execute ```pip install -r reqs.txt``` to install dependencies
@@ -17,5 +17,3 @@ Execute ```pip install -r reqs.txt``` to install dependencies
     * **--stopbits** - Stop bits (1 by default)')
     * **--msglen** - UART message length in bits (8 by default)')
     * **--format** - Format type ("hex" by default))')
-
-3. 
