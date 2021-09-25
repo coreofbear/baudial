@@ -4,7 +4,7 @@ Baudial - minimalistic Python based UART CLI terminal
 ## Installing dependencies 
 Execute ```pip install -r reqs.txt``` to install dependencies
 
-### Usage
+## Usage
 
 1. Define using UART port on your system. 
 
